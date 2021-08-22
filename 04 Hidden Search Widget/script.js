@@ -6,3 +6,8 @@ btn.addEventListener('click', () => {
     search.classList.toggle('active')
     input.focus()
 })
+
+// window.addEventListener('click', () => {
+//     search.classList.toggle('active')
+//     // input.focus()
+// })
